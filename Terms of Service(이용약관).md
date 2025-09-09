@@ -32,4 +32,4 @@ Pro 기능은 Discord의 앱 구독(Entitlement)을 통해 제공됩니다. 결�
 정책은 사전 고지 후 변경될 수 있습니다. 변경 후 계속 사용 시 동의한 것으로 봅니다.
 
 11. 연락처
-문의: your-email@example.com
+문의: yarong0821@gmail.com
